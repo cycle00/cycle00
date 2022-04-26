@@ -1,10 +1,10 @@
-## Hey
+## Hey! 🔥
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=cycle00&show_icons=true&theme=cobalt)
 
 ### Here's My Current Project! 💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cycle00&repo=JustRainbowLights)](https://github.com/cycle00/JustRainbowLights)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cycle00&repo=notepad-console)](https://github.com/cycle00/notepad-console)
 
 ### My Most Popular Languages
 
