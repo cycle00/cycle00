@@ -4,7 +4,7 @@
 
 ### Here's My Current Project! 💻
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cycle00&repo=notepad-console)](https://github.com/cycle00/notepad-console)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cycle00&repo=OpenGLRaytracer)](https://github.com/cycle00/OpenGLRaytracer)
 
 ### My Most Popular Languages
 
